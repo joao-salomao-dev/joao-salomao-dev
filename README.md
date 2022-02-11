@@ -7,7 +7,7 @@
 
 -🔭 Atualmente, estou trabalhando em Telecomunicações e sou formado em Analise e desenvolvimento de sistemas.                                                                     
 
--🌱 Atualmente, estou em busca de colocação no mercado de Tecnologia e aprendendo Java.
+-🌱 Atualmente, estou em busca de colocação no mercado de Tecnologia Software Developer.
 
 -👯 Estou procurando colaborar em Projetos ao qual eu possa crescer profissionalmete e esta evoluindo a cadadia
 
