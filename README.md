@@ -9,7 +9,7 @@
 
 -🌱 Atualmente, estou em busca de colocação no mercado de Tecnologia Software Developer.
 
--👯 Estou procurando colaborar em Projetos ao qual eu possa crescer profissionalmete e esta evoluindo a cadadia
+-👯 Estou procurando colaborar em Projetos ao qual eu possa crescer profissionalmete e esta evoluindo a cada dia.
 
 -📫 Como entrar em contato comigo: joao.black18@gmail.com
 
