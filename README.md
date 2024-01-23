@@ -3,7 +3,7 @@
 
 **joao-salomao-dev**`README.md` 
 
-## Oiii eu sou João Emanoel , Desenvolvedor iniciante de programação e tecnologia!
+## Oiii eu sou João Emanoel , QA iniciante de programação e tecnologia!
 
 -🔭 Atualmente, estou trabalhando em Telecomunicações e sou formado em Analise e desenvolvimento de sistemas.                                                                     
 
